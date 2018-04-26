@@ -108,7 +108,7 @@ finish_upgrade() {
               echo "service is already active"
               break ;;
           *)
-	            echo "unexpected upgrade state: $serviceState" ;;
+              echo "unexpected upgrade state: $serviceState" ;;
       esac
   	done
 }
