@@ -1,0 +1,1 @@
+This script is used to build a Docker image, upload it to the registry and then update the service in Rancher.
